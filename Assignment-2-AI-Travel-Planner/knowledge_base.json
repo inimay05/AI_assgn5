@@ -1,0 +1,28 @@
+{
+  "destinations": [
+    {
+      "name": "Goa",
+      "budget": "medium",
+      "food": "seafood",
+      "activities": ["beach", "nightlife"]
+    },
+    {
+      "name": "Jaipur",
+      "budget": "low",
+      "food": "traditional",
+      "activities": ["history", "forts"]
+    },
+    {
+      "name": "Manali",
+      "budget": "medium",
+      "food": "local",
+      "activities": ["trekking", "snow"]
+    },
+    {
+      "name": "Kerala",
+      "budget": "high",
+      "food": "seafood",
+      "activities": ["backwaters", "nature"]
+    }
+  ]
+}
