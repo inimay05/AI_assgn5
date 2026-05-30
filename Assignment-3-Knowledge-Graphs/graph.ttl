@@ -1,0 +1,4 @@
+@prefix ns1: <http://example.org/> .
+
+ns1:Goa ns1:hasActivity ns1:Beach .
+
